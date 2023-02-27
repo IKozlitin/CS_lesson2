@@ -61,7 +61,8 @@
     <None Include="CodeFile1.cs" />
     <None Include="PropsExamples.cs" />
     <None Include="PropsWPU221.cs" />
-    <Compile Include="HW4_Website.cs" />
+    <None Include="HW4_Website.cs" />
+    <Compile Include="HW5_Magazine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
